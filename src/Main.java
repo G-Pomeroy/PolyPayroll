@@ -8,6 +8,7 @@ public class Main {
 
         ArrayList<Employee> emp = new ArrayList<>();
 
+
         Employee emp1 = new Manager("Richard","Rich",2000);
         Employee emp2 = new PieceWorker("Tina","Zena",1000);
         Employee emp3 = new Salaried("Sue","Me",10);
